@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Szeket
-- 👀 I’m interested in learning everything 
-- 🌱 I’m currently learning js :)
+- 👀 I’m interested in learning Everything 
+- 🌱 I’m currently learning js, html, css and all that jazz :)
 - 📫 @Szeket on telegram
 
 <!---
